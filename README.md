@@ -1,7 +1,3 @@
-# Branded T-Shirt Sales Dashboard
-This project demonstrates an end-to-end data analytics workflow using Azure SQL Database, SQL Server Management Studio (SSMS), and Power BI
-# Branded T-Shirt Sales Dashboard | Azure SQL + Power BI
-
 *##Project Overview*
 
 This project demonstrates an end-to-end data analytics workflow using Azure SQL Database, SQL Server Management Studio (SSMS), and Power BI. The dashboard provides insights into branded T-shirt sales performance, helping analyze sales trends, product performance, customer behavior, and revenue metrics.
