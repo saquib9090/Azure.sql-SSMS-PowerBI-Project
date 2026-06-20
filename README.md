@@ -1,10 +1,10 @@
-##Branded T-Shirt Sales Dashboard
+# Branded T-Shirt Sales Dashboard 
 
-##Project Overview
+## Project Overview
 
 This project demonstrates an end-to-end data analytics workflow using Azure SQL Database, SQL Server Management Studio (SSMS), and Power BI. The dashboard provides insights into branded T-shirt sales performance, helping analyze sales trends, product performance, customer behavior, and revenue metrics.
 
-*## Objectives*
+## Objectives
 
 * Analyze branded T-shirt sales data.
 * Track sales performance across brands and categories.
@@ -12,7 +12,7 @@ This project demonstrates an end-to-end data analytics workflow using Azure SQL 
 * Identify top-performing products.
 * Create interactive visualizations for business decision-making.
 
-*## Tools & Technologies*
+## Tools & Technologies
 
 * Azure SQL Database
 * SQL Server Management Studio (SSMS)
@@ -20,7 +20,7 @@ This project demonstrates an end-to-end data analytics workflow using Azure SQL 
 * Power Query
 * DAX
 
-*## Data Pipeline*
+## Data Pipeline
 
 1. Loaded sales data into Azure SQL Database.
 2. Connected to the database using SSMS for data validation and querying.
@@ -28,16 +28,17 @@ This project demonstrates an end-to-end data analytics workflow using Azure SQL 
 4. Connected Power BI to Azure SQL Database.
 5. Built interactive dashboards and KPIs using DAX measures and visualizations.
 
+## Dashboard Features
 
 ### Key Performance Indicators (KPIs)
 
-* Top 5 braands by avg discount % 
-* Top 5 brands by highest avg profit %
-* Top 5 highest number varities 
-* Top 5  highest avg sales price 
-* Bottom 5 brand by bottom discount%
+- Top 5 Brands by Average Discount (%)
+- Top 5 Brands by Highest Average Profit (%)
+- Top 5 Brands with the Highest Number of Varieties
+- Top 5 Brands by Highest Average Sales Price
+- Bottom 5 Brands by Lowest Average Discount (%)
 
-*## Business Insights*
+## Business Insights
 
 * Identified top-performing brands contributing the highest revenue.
 * Analyzed monthly sales trends and seasonal demand patterns.
@@ -70,6 +71,7 @@ This project demonstrates an end-to-end data analytics workflow using Azure SQL 
 
 * Dashboard Screenshots
 * SQL Queries
+* Power BI Report (.pbix)
 * README.md
 
 ## Author
@@ -79,3 +81,4 @@ Mohammad Saquib
 Data Analyst | Data Scientist
 
 LinkedIn : https://www.linkedin.com/in/mohammad-saquib-0ab9452b8/
+
