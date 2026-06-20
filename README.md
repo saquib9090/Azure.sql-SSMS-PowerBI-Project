@@ -1,4 +1,4 @@
-##Branded T-Shirt Sales Dashboard
+**Branded T-Shirt Sales Dashboard**
 
 *##Project Overview*
 
